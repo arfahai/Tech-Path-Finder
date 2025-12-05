@@ -78,5 +78,3 @@ Many tech graduates face challenges after graduation:
 
 This project is built using **Lovable.ai** and is for educational purposes.
 
---
-Do you want me to do that?
